@@ -1,0 +1,390 @@
+{
+  "audio": {
+    "miniPlayer": {
+      "nowPlaying": "Speelt nu"
+    },
+    "actions": {
+      "pause": "Pauze",
+      "play": "Afspelen",
+      "liked": "Leuk gevonden",
+      "like": "Leuk"
+    },
+    "import": {
+      "error": "Dat bestand kan niet worden geïmporteerd.",
+      "button": "Audiobestand importeren",
+      "fileSize": "Bestandsgrootte: {{size}}",
+      "lastImported": "Geïmporteerd station"
+    },
+    "list": {
+      "playCount": "Afspeelbeurten",
+      "emptyImport": "Nog geen geïmporteerde stations.",
+      "emptyMostPlayed": "Nog geen luistergeschiedenis.",
+      "emptyLiked": "Je hebt nog geen stations leuk gevonden.",
+      "unknownBitrate": "Onbekend",
+      "bitrate": "Bitsnelheid",
+      "country": "Land"
+    },
+    "status": {
+      "loading": "Stations worden geladen..."
+    },
+    "errors": {
+      "noStream": "Dit station heeft geen afspeelbare stream.",
+      "loadStations": "Kan stations niet laden."
+    },
+    "common": {
+      "unknownCountry": "Onbekend land",
+      "unknownStation": "Naamloos station"
+    },
+    "tabs": {
+      "import": "Importeren",
+      "most": "Meest afgespeeld",
+      "liked": "Leuk gevonden",
+      "all": "Alles"
+    },
+    "header": {
+      "subtitle": "Ontdek samengestelde internetradio's.",
+      "title": "Live radio"
+    }
+  },
+  "videos": {
+    "soundOff": "Gedempt",
+    "soundOn": "Geluid aan",
+    "restart": "Opnieuw starten",
+    "speed": "Snelheid",
+    "playbackSpeed": "Afspelsnelheid",
+    "pause": "Pauze",
+    "play": "Afspelen",
+    "playbackError": "Afspelingsfout. Probeer het opnieuw.",
+    "missingVideo": "Kan deze video niet laden.",
+    "loading": "Video's worden geladen...",
+    "tapToPlay": "Op het apparaat • Tik om te kijken",
+    "empty": "Geen video's gevonden.",
+    "subtitle": "Blader door elk bestand op je apparaat.",
+    "title": "Video's"
+  },
+  "tv": {
+    "genericCategory": "Algemeen",
+    "retry": "Probeer opnieuw",
+    "noChannels": "Geen kanalen beschikbaar.",
+    "error": "Kanalen kunnen nu niet worden geladen.",
+    "loading": "Kanalen worden geladen...",
+    "ctaButton": "Doorgaan",
+    "ctaSubtitle": "Stream samengestelde kanalen van LOKIOK.",
+    "ctaTitle": "LOKIOK Private Cinema",
+    "heroBadge": "Live & premium",
+    "subtitle": "Stream samengestelde kanalen.",
+    "title": "TV"
+  },
+  "tabs": {
+    "audio": "Audio",
+    "home": "Start",
+    "tv": "TV",
+    "calendar": "Favorieten",
+    "aiTools": "AI-hulpmiddelen"
+  },
+  "subscription": {
+    "cta": "Abonnement starten",
+    "subtitle": "Abonneer je om premiumshows, downloads en een reclamevrije ervaring te ontgrendelen.",
+    "title": "Verbeter je ervaring",
+    "close": "Sluiten"
+  },
+  "settings": {
+    "sections": {
+      "playback": "Weergave",
+      "notifications": "Meldingen",
+      "downloads": "Downloads",
+      "subscription": "Abonnement",
+      "support": "Support"
+    },
+    "rows": {
+      "rateApp": "App beoordelen",
+      "shareFeedback": "Feedback delen",
+      "helpCenter": "Helpcentrum",
+      "emailUpdatesDesc": "Af en toe productmails.",
+      "emailUpdates": "E-mailupdates",
+      "pushAlertsDesc": "Mobiele meldingen over nieuwe releases.",
+      "pushAlerts": "Pushmeldingen",
+      "storageLocationDesc": "Downloads opgeslagen in het interne geheugen.",
+      "subscriptionDesc": "Tik om premiumfuncties te ontgrendelen en je lidmaatschap te beheren.",
+      "storageLocation": "Opslaglocatie",
+      "clearCache": "Cache wissen",
+      "hdOnlyDesc": "Stream alleen HD-kwaliteit indien beschikbaar.",
+      "hdOnly": "Alleen HD",
+      "autoplayDesc": "Volgend item automatisch afspelen.",
+      "autoplay": "Automatisch afspelen"
+    },
+    "labels": {
+      "sdCard": "SD-kaart",
+      "internal": "Interne opslag"
+    },
+    "messages": {
+      "restore": "Eerdere aankopen herstellen?",
+      "chooseStorage": "Kies waar downloads worden opgeslagen.",
+      "cacheCleared": "Cache leeggemaakt."
+    },
+    "actions": {
+      "restorePurchases": "Aankopen herstellen",
+      "manageSubscription": "Abonnement beheren"
+    },
+    "header": {
+      "subtitle": "Stel je Turn Player-ervaring af.",
+      "title": "Instellingen"
+    }
+  },
+  "recentVideos": {
+    "empty": "Je recente lijst is leeg.",
+    "header": {
+      "title": "Recent afgespeelde video's"
+    }
+  },
+  "quotes": {
+    "header": {
+      "today": "Keuze van vandaag",
+      "subtitle": "Geselecteerde citaten om je te inspireren.",
+      "title": "Dagelijkse inspiratie"
+    }
+  },
+  "permissions": {
+    "limitedMessage": "We hebben slechts gedeeltelijke toegang tot je media.",
+    "limitedTitle": "Beperkte toegang",
+    "deniedMessage": "We hebben opslagtoegang nodig om je video's te tonen.",
+    "deniedTitle": "Toegang geweigerd",
+    "blockedMessage": "Schakel foto-toegang in via de systeeminstellingen.",
+    "blockedTitle": "Toegang geblokkeerd"
+  },
+  "onboarding": {
+    "cta": "Aan de slag",
+    "subtitle": "Importeer je video's, radio en afspeellijsten op één plek.",
+    "title": "Streamen zonder grenzen",
+    "slides": {
+      "video": {
+        "title": "Videospeler",
+        "subtitle": "Speel elke video af."
+      },
+      "audio": {
+        "title": "Radio & podcasts",
+        "subtitle": "Stream live radiozenders en podcasts."
+      },
+      "offline": {
+        "title": "Offline modus",
+        "subtitle": "Download shows om overal te kijken."
+      }
+    }
+  },
+  "media": {
+    "moviesNoTrailer": "Geen trailer beschikbaar.",
+    "moviesRatingLabel": "Beoordeling",
+    "moviesReleaseLabel": "Release",
+    "moviesLanguageLabel": "Taal",
+    "moviesVideoError": "Kan videovoorbeeld niet laden.",
+    "moviesOverview": "Overzicht",
+    "moviesTrailer": "Trailer",
+    "moviesHeroBadge": "Nu trending",
+    "moviesSource": "Mogelijk gemaakt door TMDB",
+    "moviesNoPoster": "Geen afbeelding",
+    "moviesNoSummary": "Tik om de volledige samenvatting te zien.",
+    "moviesUnknownDate": "Nog onbekend",
+    "moviesEmptySubtitle": "Trek omlaag om films te laden.",
+    "moviesEmptyTitle": "Geen films om te tonen",
+    "moviesErrorTitle": "Kan films niet laden",
+    "moviesError": "Kan films niet laden. Probeer het opnieuw.",
+    "moviesMissingKey": "De TMDB API-sleutel ontbreekt.",
+    "moviesSubtitle": "Blader door trending films via TMDB.",
+    "moviesTitle": "Films"
+  },
+  "language": {
+    "subtitle": "Kies de taal die overal in de app wordt gebruikt.",
+    "title": "Kies je taal"
+  },
+  "home": {
+    "cta": {
+      "continueWatching": "Verder kijken"
+    },
+    "cards": {
+      "theme": {
+        "subtitle": "Wijzig kleuren, taal en meer.",
+        "title": "Thema aanpassen"
+      },
+      "quotes": {
+        "action": "Citaten openen",
+        "label": "Quote van de dag",
+        "subtitle": "Vernieuw voor de inspiratie van vandaag.",
+        "title": "Dagelijkse citaten"
+      },
+      "recentlyPlayed": {
+        "subtitle": "Ga terug naar je laatste sessies.",
+        "title": "Onlangs afgespeeld"
+      },
+      "yourVideos": {
+        "subtitle": "Blader door elk bestand op dit apparaat.",
+        "title": "Je video's"
+      }
+    },
+    "search": {
+      "placeholder": "Zoek in je bibliotheek"
+    },
+    "header": {
+      "subtitle": "Alles wat je hebt afgespeeld staat hier.",
+      "title": "Welkom terug"
+    }
+  },
+  "common": {
+    "viewArrow": "Bekijken ›",
+    "tryAgain": "Probeer het later opnieuw.",
+    "retry": "Opnieuw proberen",
+    "openSettings": "Instellingen openen",
+    "loading": "Bezig met laden...",
+    "continue": "Doorgaan",
+    "cancel": "Annuleren",
+    "back": "Terug",
+    "adsLoading": "Advertentie wordt geladen..."
+  },
+  "paywall": {
+    "title": "Turn videospeler",
+    "subtitle": "Speel al je video's onbeperkt in HD af.",
+    "features": {
+      "title": "Functies ontgrendelen",
+      "adsFree": "100% advertentievrij",
+      "hd": "HD- en 4K-weergave",
+      "unlimited": "Geavanceerde bediening voor uw offline mediaspeler."
+    },
+    "labels": {
+      "weekly": "Wekelijks",
+      "monthly": "Maandelijks",
+      "yearly": "Jaarlijks",
+      "threeDayTrial": "3 dagen gratis proefperiode",
+      "perPeriod": "{{price}} · {{period}}",
+      "perWeek": "≈ {{price}} / week",
+      "perWeekShort": "/week",
+      "perMonthShort": "/maand",
+      "perYearShort": "/jaar"
+    },
+    "badges": {
+      "bestValue": "Beste deal",
+      "popular": "Meest populair"
+    },
+    "cta": {
+      "trial": "Gratis proef starten",
+      "subscribe": "Nu abonneren",
+      "restore": "Aankopen herstellen"
+    },
+    "messages": {
+      "restoredTitle": "Aankopen hersteld",
+      "restoredMessage": "Je abonnement is weer actief.",
+      "notFoundTitle": "Geen abonnement gevonden",
+      "notFoundMessage": "We konden geen actief abonnement voor dit account vinden.",
+      "noPackages": "Er zijn momenteel geen plannen beschikbaar.",
+      "cancelAnytime": "Je kunt op elk moment annuleren.",
+      "subscriptionErrorTitle": "Al geabonneerd",
+      "subscriptionErrorMessage": "Je hebt dit plan al.",
+      "trialLine1": "Begin met een gratis proef van 3 dagen en daarna {{price}} per week.",
+      "trialLine2": "Annuleer vóór het einde van de proef om kosten te voorkomen.",
+      "renewal": "Wordt automatisch verlengd voor {{price}} {{period}} tenzij geannuleerd."
+    },
+    "support": {
+      "terms": "Gebruiksvoorwaarden",
+      "privacy": "Privacybeleid"
+    },
+    "success": {
+      "title": "Alles klaar!",
+      "message": "Premiumfuncties zijn op al je apparaten geactiveerd.",
+      "button": "Doorgaan"
+    }
+  },
+  "aiTools": {
+    "title": "AI-hulpmiddelen",
+    "tabs": {
+      "work": "Werk",
+      "business": "Zakelijk",
+      "communication": "Communicatie",
+      "health": "Gezondheid",
+      "fun": "Plezier"
+    },
+    "inputPlaceholder": "Je taak...",
+    "actions": {
+      "send": "Versturen",
+      "copy": "Kopiëren",
+      "close": "Sluiten"
+    },
+    "errors": {
+      "invalidJson": "We konden dat evenement niet lezen. Probeer het opnieuw.",
+      "aiFailed": "De AI is nu niet beschikbaar. Probeer het nog eens."
+    },
+    "emptyState": "Hier staan nog geen tools. Kom later terug.",
+    "taskReminderSaved": "Herinnering opgeslagen voor {{date}} — {{title}}",
+    "responseLabel": "AI"
+  },
+  "tools": {
+    "joke": {
+      "title": "Dagelijkse grap",
+      "subtitle": "Vraag om een snelle lach."
+    },
+    "song": {
+      "title": "Songwriting",
+      "subtitle": "Maak in seconden songteksten."
+    },
+    "party": {
+      "title": "Feestplanner",
+      "subtitle": "Premiumtoegang vereist."
+    },
+    "recipeIdeas": {
+      "title": "Receptideeën",
+      "subtitle": "Speelse combinaties en gerechten."
+    },
+    "giftIdeas": {
+      "title": "Cadeau-ideeën",
+      "subtitle": "Aanbevelingen als een conciërge."
+    },
+    "emojiStory": {
+      "title": "Tekst naar emoji-verhaal",
+      "subtitle": "Vertel momenten alleen met emoji's."
+    },
+    "dietPlan": {
+      "title": "Gezond voedingsplan",
+      "subtitle": "Gebalanceerde maaltijden voor je doelen."
+    },
+    "muscleMass": {
+      "title": "Spiermassa-work-out",
+      "subtitle": "Krachtroutines met sets."
+    },
+    "healthyRecipe": {
+      "title": "Gezond recept",
+      "subtitle": "Snelle en voedzame maaltijden."
+    },
+    "workoutPlan": {
+      "title": "Trainingsschema",
+      "subtitle": "Geblokkeerd. Upgrade om te openen."
+    },
+    "betterSleep": {
+      "title": "Beter slapen",
+      "subtitle": "Geblokkeerd. Upgrade voor tips."
+    },
+    "vitamins": {
+      "title": "Vitaminegids",
+      "subtitle": "Geblokkeerde supplement-inzichten."
+    },
+    "taskReminder": {
+      "title": "Taakherinnering",
+      "subtitle": "Zet tekst om in agenda-items."
+    }
+  },
+  "calendar": {
+    "title": "Kalender",
+    "today": "Vandaag",
+    "noEvents": "Geen evenementen voor deze dag.",
+    "allDay": "Hele dag",
+    "add": {
+      "title": "Nieuwe herinnering",
+      "eventTitle": "Titel van evenement",
+      "color": "Kleur",
+      "icon": "Icoon",
+      "allDay": "Hele dag",
+      "date": "Datum",
+      "startTime": "Starttijd",
+      "endTime": "Eindtijd",
+      "note": "Notitie",
+      "save": "Opslaan",
+      "defaultTitle": "Naamloos evenement"
+    }
+  }
+}

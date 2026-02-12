@@ -1,0 +1,390 @@
+{
+  "audio": {
+    "miniPlayer": {
+      "nowPlaying": "再生中"
+    },
+    "actions": {
+      "pause": "一時停止",
+      "play": "再生",
+      "liked": "お気に入り",
+      "like": "いいね"
+    },
+    "import": {
+      "error": "そのファイルをインポートできません。",
+      "button": "音声ファイルをインポート",
+      "fileSize": "ファイルサイズ：{{size}}",
+      "lastImported": "インポートした局"
+    },
+    "list": {
+      "playCount": "再生回数",
+      "emptyImport": "インポートされた局はまだありません。",
+      "emptyMostPlayed": "再生履歴はまだありません。",
+      "emptyLiked": "まだお気に入りの局がありません。",
+      "unknownBitrate": "不明",
+      "bitrate": "ビットレート",
+      "country": "国"
+    },
+    "status": {
+      "loading": "ステーションを読み込み中..."
+    },
+    "errors": {
+      "noStream": "この局には再生できるストリームがありません。",
+      "loadStations": "局を読み込めませんでした。"
+    },
+    "common": {
+      "unknownCountry": "不明な国",
+      "unknownStation": "無題の局"
+    },
+    "tabs": {
+      "import": "インポート",
+      "most": "再生数トップ",
+      "liked": "お気に入り",
+      "all": "すべて"
+    },
+    "header": {
+      "subtitle": "厳選されたネットラジオ局を見つけよう。",
+      "title": "ライブラジオ"
+    }
+  },
+  "videos": {
+    "soundOff": "ミュート",
+    "soundOn": "サウンドオン",
+    "restart": "リスタート",
+    "speed": "速度",
+    "playbackSpeed": "再生速度",
+    "pause": "一時停止",
+    "play": "再生",
+    "playbackError": "再生エラーです。もう一度お試しください。",
+    "missingVideo": "この動画を読み込めません。",
+    "loading": "動画を読み込み中...",
+    "tapToPlay": "デバイス上 • タップして視聴",
+    "empty": "動画が見つかりません。",
+    "subtitle": "デバイス上のすべてのファイルを閲覧。",
+    "title": "動画"
+  },
+  "tv": {
+    "genericCategory": "一般",
+    "retry": "もう一度試す",
+    "noChannels": "利用可能なチャンネルはありません。",
+    "error": "現在チャンネルを読み込めません。",
+    "loading": "チャンネルを読み込み中...",
+    "ctaButton": "続行",
+    "ctaSubtitle": "LOKIOK 提供の厳選チャンネルを配信。",
+    "ctaTitle": "LOKIOK プライベートシネマ",
+    "heroBadge": "ライブ＆プレミアム",
+    "subtitle": "厳選チャンネルをストリーミング。",
+    "title": "テレビ"
+  },
+  "tabs": {
+    "audio": "オーディオ",
+    "home": "ホーム",
+    "tv": "テレビ",
+    "calendar": "お気に入り",
+    "aiTools": "AIツール"
+  },
+  "subscription": {
+    "cta": "サブスクリプションを開始",
+    "subtitle": "プレミア番組・ダウンロード・広告なしの体験をアンロック。",
+    "title": "体験をアップグレード",
+    "close": "閉じる"
+  },
+  "settings": {
+    "sections": {
+      "playback": "再生",
+      "notifications": "通知",
+      "downloads": "ダウンロード",
+      "subscription": "サブスクリプション",
+      "support": "サポート"
+    },
+    "rows": {
+      "rateApp": "アプリを評価",
+      "shareFeedback": "フィードバックを送る",
+      "helpCenter": "ヘルプセンター",
+      "emailUpdatesDesc": "製品に関するお知らせメール。",
+      "emailUpdates": "メール通知",
+      "pushAlertsDesc": "新作に関するモバイル通知。",
+      "pushAlerts": "プッシュ通知",
+      "storageLocationDesc": "ダウンロードは内部ストレージに保存されます。",
+      "subscriptionDesc": "プレミアム機能を解放し、メンバーシップを管理するにはタップしてください。",
+      "storageLocation": "保存先",
+      "clearCache": "キャッシュをクリア",
+      "hdOnlyDesc": "利用可能な場合のみ HD 品質で再生します。",
+      "hdOnly": "HD のみ",
+      "autoplayDesc": "次の項目を自動再生します。",
+      "autoplay": "自動再生"
+    },
+    "labels": {
+      "sdCard": "SD カード",
+      "internal": "内部ストレージ"
+    },
+    "messages": {
+      "restore": "以前の購入を復元しますか？",
+      "chooseStorage": "ダウンロードの保存先を選んでください。",
+      "cacheCleared": "キャッシュを削除しました。"
+    },
+    "actions": {
+      "restorePurchases": "購入を復元",
+      "manageSubscription": "サブスクリプションを管理"
+    },
+    "header": {
+      "subtitle": "Turn Player の体験を調整しましょう。",
+      "title": "設定"
+    }
+  },
+  "recentVideos": {
+    "empty": "最近のリストは空です。",
+    "header": {
+      "title": "最近再生した動画"
+    }
+  },
+  "quotes": {
+    "header": {
+      "today": "今日のピック",
+      "subtitle": "厳選された名言でモチベーションを保ちましょう。",
+      "title": "毎日のインスピレーション"
+    }
+  },
+  "permissions": {
+    "limitedMessage": "メディアへのアクセスは一部だけです。",
+    "limitedTitle": "制限付きアクセス",
+    "deniedMessage": "動画を表示するにはストレージへのアクセスが必要です。",
+    "deniedTitle": "アクセスが拒否されました",
+    "blockedMessage": "設定で写真へのアクセスを有効にしてください。",
+    "blockedTitle": "アクセスがブロックされました"
+  },
+  "onboarding": {
+    "cta": "はじめる",
+    "subtitle": "動画・ラジオ・プレイリストを一箇所にまとめよう。",
+    "title": "制限なくストリーミング",
+    "slides": {
+      "video": {
+        "title": "ビデオプレーヤー",
+        "subtitle": "どんな動画でも再生できます。"
+      },
+      "audio": {
+        "title": "ラジオとポッドキャスト",
+        "subtitle": "ライブのラジオ局とポッドキャストをストリーミング。"
+      },
+      "offline": {
+        "title": "オフラインモード",
+        "subtitle": "番組をダウンロードしてどこでも視聴。"
+      }
+    }
+  },
+  "media": {
+    "moviesNoTrailer": "予告編はありません。",
+    "moviesRatingLabel": "評価",
+    "moviesReleaseLabel": "公開",
+    "moviesLanguageLabel": "言語",
+    "moviesVideoError": "動画プレビューを読み込めません。",
+    "moviesOverview": "概要",
+    "moviesTrailer": "予告編",
+    "moviesHeroBadge": "トレンド中",
+    "moviesSource": "TMDB 提供",
+    "moviesNoPoster": "画像なし",
+    "moviesNoSummary": "タップしてあらすじを表示。",
+    "moviesUnknownDate": "未定",
+    "moviesEmptySubtitle": "引き下ろして映画を読み込む。",
+    "moviesEmptyTitle": "表示する映画がありません",
+    "moviesErrorTitle": "映画を読み込めません",
+    "moviesError": "映画を読み込めませんでした。もう一度お試しください。",
+    "moviesMissingKey": "TMDB の API キーがありません。",
+    "moviesSubtitle": "TMDB 提供のトレンド映画をチェック。",
+    "moviesTitle": "映画"
+  },
+  "language": {
+    "subtitle": "アプリ全体で使用する言語を選択してください。",
+    "title": "言語を選択"
+  },
+  "home": {
+    "cta": {
+      "continueWatching": "視聴を続ける"
+    },
+    "cards": {
+      "theme": {
+        "subtitle": "色や言語などを切り替えましょう。",
+        "title": "テーマをカスタマイズ"
+      },
+      "quotes": {
+        "action": "名言を見る",
+        "label": "今日の名言",
+        "subtitle": "今日のインスピレーションを引き出そう。",
+        "title": "毎日の名言"
+      },
+      "recentlyPlayed": {
+        "subtitle": "前回のセッションに戻りましょう。",
+        "title": "最近再生"
+      },
+      "yourVideos": {
+        "subtitle": "このデバイス上のすべてのファイルを閲覧。",
+        "title": "あなたのビデオ"
+      }
+    },
+    "search": {
+      "placeholder": "ライブラリを検索"
+    },
+    "header": {
+      "subtitle": "再生したものはすべてここにあります。",
+      "title": "お帰りなさい"
+    }
+  },
+  "common": {
+    "viewArrow": "表示 ›",
+    "tryAgain": "後でもう一度お試しください。",
+    "retry": "再試行",
+    "openSettings": "設定を開く",
+    "loading": "読み込み中...",
+    "continue": "続行",
+    "cancel": "キャンセル",
+    "back": "戻る",
+    "adsLoading": "広告を読み込み中..."
+  },
+  "paywall": {
+    "title": "Turn ビデオプレーヤー",
+    "subtitle": "すべてのビデオをHDで制限なく再生。",
+    "features": {
+      "title": "機能をアンロック",
+      "adsFree": "広告なしの体験",
+      "hd": "HD・4K再生",
+      "unlimited": "オフラインメディアプレーヤーの高度なコントロール。"
+    },
+    "labels": {
+      "weekly": "毎週",
+      "monthly": "毎月",
+      "yearly": "毎年",
+      "threeDayTrial": "3日間の無料トライアル",
+      "perPeriod": "{{price}}・{{period}}",
+      "perWeek": "約 {{price}} / 週",
+      "perWeekShort": "/週",
+      "perMonthShort": "/月",
+      "perYearShort": "/年"
+    },
+    "badges": {
+      "bestValue": "最もお得",
+      "popular": "人気 No.1"
+    },
+    "cta": {
+      "trial": "無料トライアルを開始",
+      "subscribe": "今すぐ購読",
+      "restore": "購入情報を復元"
+    },
+    "messages": {
+      "restoredTitle": "購入情報を復元しました",
+      "restoredMessage": "サブスクリプションが再び有効になりました。",
+      "notFoundTitle": "サブスクリプションが見つかりません",
+      "notFoundMessage": "このアカウントで有効なサブスクリプションが見つかりませんでした。",
+      "noPackages": "現在利用できるプランがありません。",
+      "cancelAnytime": "いつでも解約できます。",
+      "subscriptionErrorTitle": "すでに購読中です",
+      "subscriptionErrorMessage": "このプランはすでにご利用中です。",
+      "trialLine1": "まずは3日間の無料トライアル、その後は週 {{price}}。",
+      "trialLine2": "課金を避けるにはトライアル終了前に解約してください。",
+      "renewal": "解約しない限り {{price}} {{period}} で自動更新されます。"
+    },
+    "support": {
+      "terms": "利用規約",
+      "privacy": "プライバシーポリシー"
+    },
+    "success": {
+      "title": "準備完了！",
+      "message": "プレミアム機能がすべてのデバイスで利用可能になりました。",
+      "button": "続行"
+    }
+  },
+  "aiTools": {
+    "title": "AIツール",
+    "tabs": {
+      "work": "仕事",
+      "business": "ビジネス",
+      "communication": "コミュニケーション",
+      "health": "ヘルスケア",
+      "fun": "エンタメ"
+    },
+    "inputPlaceholder": "タスクを入力...",
+    "actions": {
+      "send": "送信",
+      "copy": "コピー",
+      "close": "閉じる"
+    },
+    "errors": {
+      "invalidJson": "イベントを読み取れませんでした。もう一度お試しください。",
+      "aiFailed": "現在AIに接続できません。再試行してください。"
+    },
+    "emptyState": "このカテゴリにはまだツールがありません。後ほどご確認ください。",
+    "taskReminderSaved": "{{date}} の {{title}} を保存しました",
+    "responseLabel": "AI"
+  },
+  "tools": {
+    "joke": {
+      "title": "毎日のジョーク",
+      "subtitle": "手軽に笑いをリクエスト。"
+    },
+    "song": {
+      "title": "ソングライティング",
+      "subtitle": "数秒で歌詞を作成。"
+    },
+    "party": {
+      "title": "パーティープランナー",
+      "subtitle": "プレミアム限定。"
+    },
+    "recipeIdeas": {
+      "title": "レシピアイデア",
+      "subtitle": "遊び心のあるメニュー。"
+    },
+    "giftIdeas": {
+      "title": "ギフトアイデア",
+      "subtitle": "コンシェルジュのような提案。"
+    },
+    "emojiStory": {
+      "title": "テキスト→絵文字ストーリー",
+      "subtitle": "絵文字だけで物語る。"
+    },
+    "dietPlan": {
+      "title": "ヘルシー食事プラン",
+      "subtitle": "目標に合わせたバランス食。"
+    },
+    "muscleMass": {
+      "title": "筋量アップワークアウト",
+      "subtitle": "セット付き筋トレ。"
+    },
+    "healthyRecipe": {
+      "title": "ヘルシーレシピ",
+      "subtitle": "手早く栄養満点。"
+    },
+    "workoutPlan": {
+      "title": "ワークアウトプラン",
+      "subtitle": "ロック中。アップグレードで解放。"
+    },
+    "betterSleep": {
+      "title": "快眠ガイド",
+      "subtitle": "ロック中。アップグレードでヒント。"
+    },
+    "vitamins": {
+      "title": "ビタミンガイド",
+      "subtitle": "ロックされたサプリ情報。"
+    },
+    "taskReminder": {
+      "title": "タスクリマインダー",
+      "subtitle": "テキストを予定に変換。"
+    }
+  },
+  "calendar": {
+    "title": "カレンダー",
+    "today": "今日",
+    "noEvents": "この日の予定はありません。",
+    "allDay": "終日",
+    "add": {
+      "title": "新しいリマインダー",
+      "eventTitle": "イベント名",
+      "color": "カラー",
+      "icon": "アイコン",
+      "allDay": "終日",
+      "date": "日付",
+      "startTime": "開始時間",
+      "endTime": "終了時間",
+      "note": "メモ",
+      "save": "保存",
+      "defaultTitle": "無題のイベント"
+    }
+  }
+}

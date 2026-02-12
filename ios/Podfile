@@ -1,0 +1,40 @@
+# Load React Native CocoaPods scripts (NO node, Node-24 safe)
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/react-native-permissions/scripts/setup'
+
+platform :ios, min_ios_version_supported
+prepare_react_native_project!
+
+# React-Native-Permissions configuration
+setup_permissions([
+  'MediaLibrary',
+  'PhotoLibrary',
+  'PhotoLibraryAddOnly'
+])
+
+linkage = ENV['USE_FRAMEWORKS']
+if linkage
+  Pod::UI.puts "Configuring Pods with #{linkage}ally linked Frameworks".green
+  use_frameworks! :linkage => linkage.to_sym
+end
+
+target 'AwesomeProject' do
+  config = use_native_modules!
+
+  # Required for Firebase / MMKV compatibility
+  use_frameworks! :linkage => :static
+  $RNFirebaseAsStaticFramework = true
+
+  use_react_native!(
+    :path => config[:reactNativePath],
+    :app_path => "#{Pod::Config.instance.installation_root}/.."
+  )
+
+  post_install do |installer|
+    react_native_post_install(
+      installer,
+      config[:reactNativePath],
+      :mac_catalyst_enabled => false
+    )
+  end
+end

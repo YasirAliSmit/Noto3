@@ -1,0 +1,390 @@
+{
+  "audio": {
+    "miniPlayer": {
+      "nowPlaying": "Jetzt läuft"
+    },
+    "actions": {
+      "pause": "Pause",
+      "play": "Abspielen",
+      "liked": "Markiert",
+      "like": "Gefällt mir"
+    },
+    "import": {
+      "error": "Diese Datei kann nicht importiert werden.",
+      "button": "Audiodatei importieren",
+      "fileSize": "Dateigröße: {{size}}",
+      "lastImported": "Importierter Sender"
+    },
+    "list": {
+      "playCount": "Wiedergaben",
+      "emptyImport": "Noch keine importierten Sender.",
+      "emptyMostPlayed": "Noch keine Hörhistorie.",
+      "emptyLiked": "Du hast noch keine Sender mit Gefällt mir markiert.",
+      "unknownBitrate": "Unbekannt",
+      "bitrate": "Bitrate",
+      "country": "Land"
+    },
+    "status": {
+      "loading": "Sender werden geladen..."
+    },
+    "errors": {
+      "noStream": "Dieser Sender hat keinen abspielbaren Stream.",
+      "loadStations": "Sender können nicht geladen werden."
+    },
+    "common": {
+      "unknownCountry": "Unbekanntes Land",
+      "unknownStation": "Unbenannter Sender"
+    },
+    "tabs": {
+      "import": "Importieren",
+      "most": "Am häufigsten gehört",
+      "liked": "Markiert",
+      "all": "Alle"
+    },
+    "header": {
+      "subtitle": "Entdecke kuratierte Internetsender.",
+      "title": "Live-Radio"
+    }
+  },
+  "videos": {
+    "soundOff": "Stumm",
+    "soundOn": "Ton an",
+    "restart": "Neu starten",
+    "speed": "Geschwindigkeit",
+    "playbackSpeed": "Wiedergabegeschwindigkeit",
+    "pause": "Pause",
+    "play": "Abspielen",
+    "playbackError": "Wiedergabefehler. Bitte erneut versuchen.",
+    "missingVideo": "Dieses Video kann nicht geladen werden.",
+    "loading": "Videos werden geladen...",
+    "tapToPlay": "Auf dem Gerät • Tippen zum Ansehen",
+    "empty": "Keine Videos gefunden.",
+    "subtitle": "Durchsuche jede Datei auf deinem Gerät.",
+    "title": "Videos"
+  },
+  "tv": {
+    "genericCategory": "Allgemein",
+    "retry": "Erneut versuchen",
+    "noChannels": "Keine Kanäle verfügbar.",
+    "error": "Kanäle können derzeit nicht geladen werden.",
+    "loading": "Kanäle werden geladen...",
+    "ctaButton": "Weiter",
+    "ctaSubtitle": "Streame kuratierte Kanäle von LOKIOK.",
+    "ctaTitle": "LOKIOK Private Cinema",
+    "heroBadge": "Live & Premium",
+    "subtitle": "Streame kuratierte Kanäle.",
+    "title": "TV"
+  },
+  "tabs": {
+    "audio": "Audio",
+    "home": "Startseite",
+    "tv": "TV",
+    "calendar": "Favoriten",
+    "aiTools": "KI-Werkzeuge"
+  },
+  "subscription": {
+    "cta": "Abo starten",
+    "subtitle": "Abonniere, um Premium-Inhalte, Downloads und ein werbefreies Erlebnis freizuschalten.",
+    "title": "Verbessere dein Erlebnis",
+    "close": "Schließen"
+  },
+  "settings": {
+    "sections": {
+      "playback": "Wiedergabe",
+      "notifications": "Benachrichtigungen",
+      "downloads": "Downloads",
+      "subscription": "Abonnement",
+      "support": "Support"
+    },
+    "rows": {
+      "rateApp": "App bewerten",
+      "shareFeedback": "Feedback teilen",
+      "helpCenter": "Hilfe-Center",
+      "emailUpdatesDesc": "Gelegentliche Produkt-E-Mails.",
+      "emailUpdates": "E-Mail-Updates",
+      "pushAlertsDesc": "Mobile Benachrichtigungen über neue Releases.",
+      "pushAlerts": "Push-Benachrichtigungen",
+      "storageLocationDesc": "Downloads werden im internen Speicher gespeichert.",
+      "subscriptionDesc": "Tippe, um Premium-Funktionen freizuschalten und dein Abo zu verwalten.",
+      "storageLocation": "Speicherort",
+      "clearCache": "Cache leeren",
+      "hdOnlyDesc": "Nur HD-Qualität streamen, wenn verfügbar.",
+      "hdOnly": "Nur HD",
+      "autoplayDesc": "Das nächste Element automatisch abspielen.",
+      "autoplay": "Autoplay"
+    },
+    "labels": {
+      "sdCard": "SD-Karte",
+      "internal": "Interner Speicher"
+    },
+    "messages": {
+      "restore": "Frühere Käufe wiederherstellen?",
+      "chooseStorage": "Wähle, wo Downloads gespeichert werden.",
+      "cacheCleared": "Cache geleert."
+    },
+    "actions": {
+      "restorePurchases": "Käufe wiederherstellen",
+      "manageSubscription": "Abonnement verwalten"
+    },
+    "header": {
+      "subtitle": "Passe Turn Player an deine Bedürfnisse an.",
+      "title": "Einstellungen"
+    }
+  },
+  "recentVideos": {
+    "empty": "Deine letzte Liste ist leer.",
+    "header": {
+      "title": "Kürzlich abgespielte Videos"
+    }
+  },
+  "quotes": {
+    "header": {
+      "today": "Auswahl des Tages",
+      "subtitle": "Ausgewählte Zitate, die dich motivieren.",
+      "title": "Tägliche Inspiration"
+    }
+  },
+  "permissions": {
+    "limitedMessage": "Wir haben nur eingeschränkten Zugriff auf deine Medien.",
+    "limitedTitle": "Eingeschränkter Zugriff",
+    "deniedMessage": "Wir benötigen Speicherzugriff, um deine Videos anzuzeigen.",
+    "deniedTitle": "Zugriff verweigert",
+    "blockedMessage": "Aktiviere den Fotozugriff in den Einstellungen.",
+    "blockedTitle": "Berechtigung blockiert"
+  },
+  "onboarding": {
+    "cta": "Los geht's",
+    "subtitle": "Importiere deine Videos, Radio und Playlists an einem Ort.",
+    "title": "Streamen ohne Grenzen",
+    "slides": {
+      "video": {
+        "title": "Videoplayer",
+        "subtitle": "Spiele jedes Video ab."
+      },
+      "audio": {
+        "title": "Radio & Podcasts",
+        "subtitle": "Streame Live-Radiosender und Podcasts."
+      },
+      "offline": {
+        "title": "Offline-Modus",
+        "subtitle": "Lade Sendungen herunter und schaue sie überall."
+      }
+    }
+  },
+  "media": {
+    "moviesNoTrailer": "Kein Trailer verfügbar.",
+    "moviesRatingLabel": "Bewertung",
+    "moviesReleaseLabel": "Veröffentlichung",
+    "moviesLanguageLabel": "Sprache",
+    "moviesVideoError": "Video-Vorschau kann nicht geladen werden.",
+    "moviesOverview": "Übersicht",
+    "moviesTrailer": "Trailer",
+    "moviesHeroBadge": "Jetzt im Trend",
+    "moviesSource": "Bereitgestellt von TMDB",
+    "moviesNoPoster": "Kein Bild",
+    "moviesNoSummary": "Tippe, um die vollständige Zusammenfassung zu sehen.",
+    "moviesUnknownDate": "Noch offen",
+    "moviesEmptySubtitle": "Zum Aktualisieren ziehen, um Filme zu laden.",
+    "moviesEmptyTitle": "Keine Filme zum Anzeigen",
+    "moviesErrorTitle": "Filme können nicht geladen werden",
+    "moviesError": "Filme können nicht geladen werden. Bitte erneut versuchen.",
+    "moviesMissingKey": "Der TMDB-API-Schlüssel fehlt.",
+    "moviesSubtitle": "Durchstöbere angesagte Filme von TMDB.",
+    "moviesTitle": "Filme"
+  },
+  "language": {
+    "subtitle": "Wähle die im gesamten App verwendete Sprache.",
+    "title": "Wähle deine Sprache"
+  },
+  "home": {
+    "cta": {
+      "continueWatching": "Weiter ansehen"
+    },
+    "cards": {
+      "theme": {
+        "subtitle": "Wechsle Farben, Sprache und mehr.",
+        "title": "Theme anpassen"
+      },
+      "quotes": {
+        "action": "Zitate öffnen",
+        "label": "Zitat des Tages",
+        "subtitle": "Aktualisiere für die Inspiration des Tages.",
+        "title": "Tägliche Zitate"
+      },
+      "recentlyPlayed": {
+        "subtitle": "Springe zurück zu deinen letzten Sitzungen.",
+        "title": "Kürzlich abgespielt"
+      },
+      "yourVideos": {
+        "subtitle": "Durchsuche jede Datei auf diesem Gerät.",
+        "title": "Deine Videos"
+      }
+    },
+    "search": {
+      "placeholder": "Durchsuche deine Bibliothek"
+    },
+    "header": {
+      "subtitle": "Alles, was du abgespielt hast, findest du hier.",
+      "title": "Willkommen zurück"
+    }
+  },
+  "common": {
+    "viewArrow": "Anzeigen ›",
+    "tryAgain": "Bitte versuche es später erneut.",
+    "retry": "Erneut versuchen",
+    "openSettings": "Einstellungen öffnen",
+    "loading": "Wird geladen...",
+    "continue": "Weiter",
+    "cancel": "Abbrechen",
+    "back": "Zurück",
+    "adsLoading": "Anzeige wird geladen..."
+  },
+  "paywall": {
+    "title": "Turn Video Player",
+    "subtitle": "Spiele jedes Video in HD ohne Einschränkungen.",
+    "features": {
+      "title": "Funktionen freischalten",
+      "adsFree": "100 % werbefrei",
+      "hd": "4K- und HD-Wiedergabe",
+      "unlimited": "Erweiterte Steuerungen für Ihren Offline-Mediaplayer."
+    },
+    "labels": {
+      "weekly": "Wöchentlich",
+      "monthly": "Monatlich",
+      "yearly": "Jährlich",
+      "threeDayTrial": "3-tägige Gratis-Testphase",
+      "perPeriod": "{{price}} · {{period}}",
+      "perWeek": "≈ {{price}} / Woche",
+      "perWeekShort": "/Woche",
+      "perMonthShort": "/Monat",
+      "perYearShort": "/Jahr"
+    },
+    "badges": {
+      "bestValue": "Bestes Angebot",
+      "popular": "Am beliebtesten"
+    },
+    "cta": {
+      "trial": "Kostenlose Testphase starten",
+      "subscribe": "Jetzt abonnieren",
+      "restore": "Käufe wiederherstellen"
+    },
+    "messages": {
+      "restoredTitle": "Käufe wiederhergestellt",
+      "restoredMessage": "Dein Abonnement ist wieder aktiv.",
+      "notFoundTitle": "Kein Abonnement gefunden",
+      "notFoundMessage": "Wir konnten kein aktives Abonnement für dieses Konto finden.",
+      "noPackages": "Derzeit sind keine Pläne verfügbar.",
+      "cancelAnytime": "Du kannst jederzeit kündigen.",
+      "subscriptionErrorTitle": "Bereits abonniert",
+      "subscriptionErrorMessage": "Du hast diesen Plan bereits.",
+      "trialLine1": "Beginne mit einer 3-tägigen kostenlosen Testphase, danach {{price}} pro Woche.",
+      "trialLine2": "Kündige vor Ablauf der Testphase, um Gebühren zu vermeiden.",
+      "renewal": "Verlängert sich automatisch für {{price}} {{period}}, sofern nicht gekündigt."
+    },
+    "support": {
+      "terms": "Nutzungsbedingungen",
+      "privacy": "Datenschutzerklärung"
+    },
+    "success": {
+      "title": "Alles bereit!",
+      "message": "Premiumfunktionen sind auf all deinen Geräten freigeschaltet.",
+      "button": "Weiter"
+    }
+  },
+  "aiTools": {
+    "title": "KI-Werkzeuge",
+    "tabs": {
+      "work": "Arbeit",
+      "business": "Business",
+      "communication": "Kommunikation",
+      "health": "Gesundheit",
+      "fun": "Spaß"
+    },
+    "inputPlaceholder": "Deine Aufgabe...",
+    "actions": {
+      "send": "Senden",
+      "copy": "Kopieren",
+      "close": "Schließen"
+    },
+    "errors": {
+      "invalidJson": "Dieser Termin konnte nicht verarbeitet werden. Bitte versuche es erneut.",
+      "aiFailed": "Die KI ist gerade nicht erreichbar. Bitte später erneut versuchen."
+    },
+    "emptyState": "Hier gibt es noch keine Tools. Schau bald wieder vorbei.",
+    "taskReminderSaved": "Erinnerung gespeichert für {{date}} — {{title}}",
+    "responseLabel": "KI"
+  },
+  "tools": {
+    "joke": {
+      "title": "Täglicher Witz",
+      "subtitle": "Frag nach einem schnellen Lacher."
+    },
+    "song": {
+      "title": "Songwriting",
+      "subtitle": "Schreibe Lyrics in Sekunden."
+    },
+    "party": {
+      "title": "Partyplaner",
+      "subtitle": "Premium-Zugang erforderlich."
+    },
+    "recipeIdeas": {
+      "title": "Rezeptideen",
+      "subtitle": "Verspielte Kombinationen und Menüs."
+    },
+    "giftIdeas": {
+      "title": "Geschenkideen",
+      "subtitle": "Concierge-Empfehlungen."
+    },
+    "emojiStory": {
+      "title": "Text zu Emoji-Geschichte",
+      "subtitle": "Erzähle Momente nur mit Emojis."
+    },
+    "dietPlan": {
+      "title": "Gesunder Ernährungsplan",
+      "subtitle": "Ausgewogene Mahlzeiten für deine Ziele."
+    },
+    "muscleMass": {
+      "title": "Muskelaufbau-Workout",
+      "subtitle": "Kraftroutinen mit Sätzen."
+    },
+    "healthyRecipe": {
+      "title": "Gesundes Rezept",
+      "subtitle": "Schnelle, nahrhafte Gerichte."
+    },
+    "workoutPlan": {
+      "title": "Workout-Plan",
+      "subtitle": "Gesperrt. Upgrade nötig."
+    },
+    "betterSleep": {
+      "title": "Besser schlafen",
+      "subtitle": "Gesperrt. Upgrade für Tipps."
+    },
+    "vitamins": {
+      "title": "Vitamin-Guide",
+      "subtitle": "Gesperrte Supplement-Insights."
+    },
+    "taskReminder": {
+      "title": "Aufgaben-Erinnerung",
+      "subtitle": "Wandelt Text in Kalendertermine."
+    }
+  },
+  "calendar": {
+    "title": "Kalender",
+    "today": "Heute",
+    "noEvents": "Keine Termine an diesem Tag.",
+    "allDay": "Ganztägig",
+    "add": {
+      "title": "Neue Erinnerung",
+      "eventTitle": "Termintitel",
+      "color": "Farbe",
+      "icon": "Symbol",
+      "allDay": "Ganztägig",
+      "date": "Datum",
+      "startTime": "Startzeit",
+      "endTime": "Endzeit",
+      "note": "Notiz",
+      "save": "Speichern",
+      "defaultTitle": "Ohne Titel"
+    }
+  }
+}

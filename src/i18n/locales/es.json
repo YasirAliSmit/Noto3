@@ -1,0 +1,390 @@
+{
+  "audio": {
+    "miniPlayer": {
+      "nowPlaying": "Reproduciendo ahora"
+    },
+    "actions": {
+      "pause": "Pausa",
+      "play": "Reproducir",
+      "liked": "Me gustó",
+      "like": "Me gusta"
+    },
+    "import": {
+      "error": "No se puede importar ese archivo.",
+      "button": "Importar archivo de audio",
+      "fileSize": "Tamaño del archivo: {{size}}",
+      "lastImported": "Estación importada"
+    },
+    "list": {
+      "playCount": "Reproducciones",
+      "emptyImport": "Aún no hay emisoras importadas.",
+      "emptyMostPlayed": "Aún no hay historial de escucha.",
+      "emptyLiked": "Aún no te ha gustado ninguna emisora.",
+      "unknownBitrate": "Desconocido",
+      "bitrate": "Bitrate",
+      "country": "País"
+    },
+    "status": {
+      "loading": "Cargando emisoras..."
+    },
+    "errors": {
+      "noStream": "Esta emisora no tiene una transmisión reproducible.",
+      "loadStations": "No se pueden cargar las emisoras."
+    },
+    "common": {
+      "unknownCountry": "País desconocido",
+      "unknownStation": "Estación sin título"
+    },
+    "tabs": {
+      "import": "Importar",
+      "most": "Más reproducidos",
+      "liked": "Me gustó",
+      "all": "Todo"
+    },
+    "header": {
+      "subtitle": "Descubre emisoras de internet seleccionadas.",
+      "title": "Radio en vivo"
+    }
+  },
+  "videos": {
+    "soundOff": "Silenciado",
+    "soundOn": "Sonido activado",
+    "restart": "Reiniciar",
+    "speed": "Velocidad",
+    "playbackSpeed": "Velocidad de reproducción",
+    "pause": "Pausa",
+    "play": "Reproducir",
+    "playbackError": "Error de reproducción. Inténtalo de nuevo.",
+    "missingVideo": "No se puede cargar este video.",
+    "loading": "Cargando videos...",
+    "tapToPlay": "En el dispositivo • Toca para ver",
+    "empty": "No se encontraron videos.",
+    "subtitle": "Explora cada archivo en tu dispositivo.",
+    "title": "Videos"
+  },
+  "tv": {
+    "genericCategory": "General",
+    "retry": "Intenta de nuevo",
+    "noChannels": "No hay canales disponibles.",
+    "error": "No se pueden cargar los canales en este momento.",
+    "loading": "Cargando canales...",
+    "ctaButton": "Continuar",
+    "ctaSubtitle": "Transmite canales seleccionados por LOKIOK.",
+    "ctaTitle": "Cine privado LOKIOK",
+    "heroBadge": "En vivo y premium",
+    "subtitle": "Transmite canales seleccionados.",
+    "title": "TV"
+  },
+  "tabs": {
+    "audio": "Audio",
+    "home": "Inicio",
+    "tv": "TV",
+    "calendar": "Favoritos",
+    "aiTools": "Herramientas de IA"
+  },
+  "subscription": {
+    "cta": "Iniciar suscripción",
+    "subtitle": "Suscríbete para desbloquear programas premium, descargas y una experiencia sin anuncios.",
+    "title": "Mejora tu experiencia",
+    "close": "Cerrar"
+  },
+  "settings": {
+    "sections": {
+      "playback": "Reproducción",
+      "notifications": "Notificaciones",
+      "downloads": "Descargas",
+      "subscription": "Suscripción",
+      "support": "Soporte"
+    },
+    "rows": {
+      "rateApp": "Calificar la app",
+      "shareFeedback": "Compartir comentarios",
+      "helpCenter": "Centro de ayuda",
+      "emailUpdatesDesc": "Correos ocasionales sobre el producto.",
+      "emailUpdates": "Actualizaciones por correo",
+      "pushAlertsDesc": "Alertas móviles sobre nuevos lanzamientos.",
+      "pushAlerts": "Alertas push",
+      "storageLocationDesc": "Descargas guardadas en el almacenamiento interno.",
+      "subscriptionDesc": "Toca para desbloquear funciones premium y administrar tu membresía.",
+      "storageLocation": "Ubicación de almacenamiento",
+      "clearCache": "Borrar caché",
+      "hdOnlyDesc": "Transmitir solo en HD cuando esté disponible.",
+      "hdOnly": "Solo HD",
+      "autoplayDesc": "Reproducir automáticamente el siguiente elemento.",
+      "autoplay": "Reproducción automática"
+    },
+    "labels": {
+      "sdCard": "Tarjeta SD",
+      "internal": "Almacenamiento interno"
+    },
+    "messages": {
+      "restore": "¿Restaurar tus compras anteriores?",
+      "chooseStorage": "Elige dónde se guardan las descargas.",
+      "cacheCleared": "Caché borrado."
+    },
+    "actions": {
+      "restorePurchases": "Restaurar compras",
+      "manageSubscription": "Administrar suscripción"
+    },
+    "header": {
+      "subtitle": "Ajusta tu experiencia con Turn Player.",
+      "title": "Ajustes"
+    }
+  },
+  "recentVideos": {
+    "empty": "Tu lista reciente está vacía.",
+    "header": {
+      "title": "Videos reproducidos recientemente"
+    }
+  },
+  "quotes": {
+    "header": {
+      "today": "Selección de hoy",
+      "subtitle": "Citas seleccionadas para motivarte.",
+      "title": "Inspiración diaria"
+    }
+  },
+  "permissions": {
+    "limitedMessage": "Solo tenemos acceso parcial a tu contenido.",
+    "limitedTitle": "Acceso limitado",
+    "deniedMessage": "Necesitamos acceso al almacenamiento para mostrar tus videos.",
+    "deniedTitle": "Permiso denegado",
+    "blockedMessage": "Activa el acceso a fotos en los ajustes del sistema.",
+    "blockedTitle": "Permiso bloqueado"
+  },
+  "onboarding": {
+    "cta": "Comenzar",
+    "subtitle": "Importa tus videos, radios y listas en un solo lugar.",
+    "title": "Reproduce sin límites",
+    "slides": {
+      "video": {
+        "title": "Reproductor de video",
+        "subtitle": "Reproduce cualquier video."
+      },
+      "audio": {
+        "title": "Radio y podcasts",
+        "subtitle": "Transmite estaciones en vivo y podcasts."
+      },
+      "offline": {
+        "title": "Modo sin conexión",
+        "subtitle": "Descarga programas para verlos en cualquier lugar."
+      }
+    }
+  },
+  "media": {
+    "moviesNoTrailer": "Tráiler no disponible.",
+    "moviesRatingLabel": "Calificación",
+    "moviesReleaseLabel": "Estreno",
+    "moviesLanguageLabel": "Idioma",
+    "moviesVideoError": "No se puede cargar la vista previa del video.",
+    "moviesOverview": "Resumen",
+    "moviesTrailer": "Tráiler",
+    "moviesHeroBadge": "En tendencia ahora",
+    "moviesSource": "Con tecnología de TMDB",
+    "moviesNoPoster": "Sin imagen",
+    "moviesNoSummary": "Toca para ver la sinopsis completa.",
+    "moviesUnknownDate": "Por confirmar",
+    "moviesEmptySubtitle": "Desliza para actualizar y cargar películas.",
+    "moviesEmptyTitle": "No hay películas para mostrar",
+    "moviesErrorTitle": "No se pueden cargar las películas",
+    "moviesError": "No se pueden cargar las películas. Inténtalo de nuevo.",
+    "moviesMissingKey": "Falta la clave de API de TMDB.",
+    "moviesSubtitle": "Explora películas en tendencia con TMDB.",
+    "moviesTitle": "Películas"
+  },
+  "language": {
+    "subtitle": "Elige el idioma usado en toda la app.",
+    "title": "Selecciona tu idioma"
+  },
+  "home": {
+    "cta": {
+      "continueWatching": "Seguir viendo"
+    },
+    "cards": {
+      "theme": {
+        "subtitle": "Cambia colores, idioma y más.",
+        "title": "Personaliza el tema"
+      },
+      "quotes": {
+        "action": "Abrir citas",
+        "label": "Cita del día",
+        "subtitle": "Desliza para la inspiración de hoy.",
+        "title": "Citas diarias"
+      },
+      "recentlyPlayed": {
+        "subtitle": "Vuelve a tus últimas sesiones.",
+        "title": "Reproducidos recientemente"
+      },
+      "yourVideos": {
+        "subtitle": "Explora cada archivo en este dispositivo.",
+        "title": "Tus videos"
+      }
+    },
+    "search": {
+      "placeholder": "Busca en tu biblioteca"
+    },
+    "header": {
+      "subtitle": "Todo lo que has reproducido vive aquí.",
+      "title": "Bienvenido de nuevo"
+    }
+  },
+  "common": {
+    "viewArrow": "Ver ›",
+    "tryAgain": "Por favor, inténtalo más tarde.",
+    "retry": "Reintentar",
+    "openSettings": "Abrir ajustes",
+    "loading": "Cargando...",
+    "continue": "Continuar",
+    "cancel": "Cancelar",
+    "back": "Atrás",
+    "adsLoading": "Cargando anuncio..."
+  },
+  "paywall": {
+    "title": "Reproductor de video Turn",
+    "subtitle": "Reproduce todos tus videos en HD sin límites.",
+    "features": {
+      "title": "Desbloquear funciones",
+      "adsFree": "Experiencia 100 % sin anuncios",
+      "hd": "Reproducción en HD y 4K",
+      "unlimited": "Controles avanzados para tu reproductor multimedia sin conexión."
+    },
+    "labels": {
+      "weekly": "Semanal",
+      "monthly": "Mensual",
+      "yearly": "Anual",
+      "threeDayTrial": "Prueba gratuita de 3 días",
+      "perPeriod": "{{price}} · {{period}}",
+      "perWeek": "≈ {{price}} / semana",
+      "perWeekShort": "/sem",
+      "perMonthShort": "/mes",
+      "perYearShort": "/año"
+    },
+    "badges": {
+      "bestValue": "Mejor oferta",
+      "popular": "Más popular"
+    },
+    "cta": {
+      "trial": "Iniciar prueba gratis",
+      "subscribe": "Suscribirse ahora",
+      "restore": "Restaurar compras"
+    },
+    "messages": {
+      "restoredTitle": "Compras restauradas",
+      "restoredMessage": "Tu suscripción volvió a estar activa.",
+      "notFoundTitle": "No se encontró suscripción",
+      "notFoundMessage": "No pudimos encontrar una suscripción activa para esta cuenta.",
+      "noPackages": "No hay planes disponibles por ahora.",
+      "cancelAnytime": "Puedes cancelar en cualquier momento.",
+      "subscriptionErrorTitle": "Ya suscrito",
+      "subscriptionErrorMessage": "Ya tienes este plan.",
+      "trialLine1": "Comienza con una prueba gratis de 3 días y luego {{price}} por semana.",
+      "trialLine2": "Cancela antes de que finalice la prueba para evitar cargos.",
+      "renewal": "Se renueva automáticamente por {{price}} {{period}} salvo cancelación."
+    },
+    "support": {
+      "terms": "Términos de uso",
+      "privacy": "Política de privacidad"
+    },
+    "success": {
+      "title": "¡Todo listo!",
+      "message": "Funciones premium habilitadas en todos tus dispositivos.",
+      "button": "Continuar"
+    }
+  },
+  "aiTools": {
+    "title": "Herramientas de IA",
+    "tabs": {
+      "work": "Trabajo",
+      "business": "Negocios",
+      "communication": "Comunicación",
+      "health": "Salud",
+      "fun": "Diversión"
+    },
+    "inputPlaceholder": "Tu tarea...",
+    "actions": {
+      "send": "Enviar",
+      "copy": "Copiar",
+      "close": "Cerrar"
+    },
+    "errors": {
+      "invalidJson": "No pudimos interpretar ese evento. Inténtalo de nuevo.",
+      "aiFailed": "No podemos contactar a la IA ahora mismo. Vuelve a intentarlo."
+    },
+    "emptyState": "Todavía no hay herramientas aquí. Vuelve pronto.",
+    "taskReminderSaved": "Recordatorio guardado para {{date}} — {{title}}",
+    "responseLabel": "IA"
+  },
+  "tools": {
+    "joke": {
+      "title": "Broma diaria",
+      "subtitle": "Pide una risa rápida."
+    },
+    "song": {
+      "title": "Composición de canciones",
+      "subtitle": "Crea letras en segundos."
+    },
+    "party": {
+      "title": "Planificador de fiestas",
+      "subtitle": "Requiere acceso premium."
+    },
+    "recipeIdeas": {
+      "title": "Ideas de recetas",
+      "subtitle": "Combos y comidas divertidas."
+    },
+    "giftIdeas": {
+      "title": "Ideas de regalos",
+      "subtitle": "Sugerencias estilo conserje."
+    },
+    "emojiStory": {
+      "title": "Historia en emojis",
+      "subtitle": "Cuenta momentos solo con emojis."
+    },
+    "dietPlan": {
+      "title": "Plan de dieta saludable",
+      "subtitle": "Comidas equilibradas según tus metas."
+    },
+    "muscleMass": {
+      "title": "Rutina para masa muscular",
+      "subtitle": "Series y fuerza guiadas."
+    },
+    "healthyRecipe": {
+      "title": "Receta saludable",
+      "subtitle": "Platos rápidos y nutritivos."
+    },
+    "workoutPlan": {
+      "title": "Plan de entrenamiento",
+      "subtitle": "Bloqueado. Mejora para desbloquear."
+    },
+    "betterSleep": {
+      "title": "Dormir mejor",
+      "subtitle": "Bloqueado. Mejora para obtener consejos."
+    },
+    "vitamins": {
+      "title": "Guía de vitaminas",
+      "subtitle": "Información bloqueada de suplementos."
+    },
+    "taskReminder": {
+      "title": "Recordatorio de tareas",
+      "subtitle": "Convierte texto en eventos."
+    }
+  },
+  "calendar": {
+    "title": "Calendario",
+    "today": "Hoy",
+    "noEvents": "No hay eventos para este día.",
+    "allDay": "Todo el día",
+    "add": {
+      "title": "Nuevo recordatorio",
+      "eventTitle": "Título del evento",
+      "color": "Color",
+      "icon": "Icono",
+      "allDay": "Todo el día",
+      "date": "Fecha",
+      "startTime": "Hora de inicio",
+      "endTime": "Hora de fin",
+      "note": "Nota",
+      "save": "Guardar",
+      "defaultTitle": "Evento sin título"
+    }
+  }
+}

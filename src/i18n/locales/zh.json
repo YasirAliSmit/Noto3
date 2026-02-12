@@ -1,0 +1,390 @@
+{
+  "audio": {
+    "miniPlayer": {
+      "nowPlaying": "正在播放"
+    },
+    "actions": {
+      "pause": "暂停",
+      "play": "播放",
+      "liked": "已喜欢",
+      "like": "喜欢"
+    },
+    "import": {
+      "error": "无法导入该文件。",
+      "button": "导入音频文件",
+      "fileSize": "文件大小：{{size}}",
+      "lastImported": "已导入的电台"
+    },
+    "list": {
+      "playCount": "播放次数",
+      "emptyImport": "尚未导入任何电台。",
+      "emptyMostPlayed": "尚无收听记录。",
+      "emptyLiked": "你还没有喜欢任何电台。",
+      "unknownBitrate": "未知",
+      "bitrate": "码率",
+      "country": "国家"
+    },
+    "status": {
+      "loading": "正在加载电台..."
+    },
+    "errors": {
+      "noStream": "该电台没有可播放的流。",
+      "loadStations": "无法加载电台。"
+    },
+    "common": {
+      "unknownCountry": "未知国家",
+      "unknownStation": "未命名电台"
+    },
+    "tabs": {
+      "import": "导入",
+      "most": "最多播放",
+      "liked": "已喜欢",
+      "all": "所有"
+    },
+    "header": {
+      "subtitle": "发现精选网络电台。",
+      "title": "直播电台"
+    }
+  },
+  "videos": {
+    "soundOff": "静音",
+    "soundOn": "声音开启",
+    "restart": "重新开始",
+    "speed": "速度",
+    "playbackSpeed": "播放速度",
+    "pause": "暂停",
+    "play": "播放",
+    "playbackError": "播放错误。请重试。",
+    "missingVideo": "无法加载此视频。",
+    "loading": "正在加载视频...",
+    "tapToPlay": "在设备上 • 点击观看",
+    "empty": "未找到视频。",
+    "subtitle": "浏览你设备上的所有文件。",
+    "title": "视频"
+  },
+  "tv": {
+    "genericCategory": "综合",
+    "retry": "再试一次",
+    "noChannels": "没有可用频道。",
+    "error": "当前无法加载频道。",
+    "loading": "正在加载频道...",
+    "ctaButton": "继续",
+    "ctaSubtitle": "播放由 LOKIOK 提供的精选频道。",
+    "ctaTitle": "LOKIOK 私人影院",
+    "heroBadge": "直播与高级",
+    "subtitle": "播放精选频道。",
+    "title": "电视"
+  },
+  "tabs": {
+    "audio": "音频",
+    "home": "首页",
+    "tv": "电视",
+    "calendar": "收藏",
+    "aiTools": "AI 工具"
+  },
+  "subscription": {
+    "cta": "开始订阅",
+    "subtitle": "订阅以解锁优质节目、下载和无广告体验。",
+    "title": "升级你的体验",
+    "close": "关闭"
+  },
+  "settings": {
+    "sections": {
+      "playback": "播放",
+      "notifications": "通知",
+      "downloads": "下载",
+      "subscription": "订阅",
+      "support": "支持"
+    },
+    "rows": {
+      "rateApp": "为应用评分",
+      "shareFeedback": "分享反馈",
+      "helpCenter": "帮助中心",
+      "emailUpdatesDesc": "偶尔发送的产品邮件。",
+      "emailUpdates": "邮件更新",
+      "pushAlertsDesc": "关于新版本的手机提醒。",
+      "pushAlerts": "推送提醒",
+      "storageLocationDesc": "下载内容保存在内部存储中。",
+      "subscriptionDesc": "点击以解锁高级功能并管理您的会员资格。",
+      "storageLocation": "存储位置",
+      "clearCache": "清除缓存",
+      "hdOnlyDesc": "仅在可用时播放 HD 质量。",
+      "hdOnly": "仅限 HD",
+      "autoplayDesc": "自动播放下一个项目。",
+      "autoplay": "自动播放"
+    },
+    "labels": {
+      "sdCard": "SD 卡",
+      "internal": "内部存储"
+    },
+    "messages": {
+      "restore": "要恢复之前的购买吗？",
+      "chooseStorage": "选择下载的存储位置。",
+      "cacheCleared": "缓存已清除。"
+    },
+    "actions": {
+      "restorePurchases": "恢复购买",
+      "manageSubscription": "管理订阅"
+    },
+    "header": {
+      "subtitle": "优化你的 Turn Player 体验。",
+      "title": "设置"
+    }
+  },
+  "recentVideos": {
+    "empty": "最近列表是空的。",
+    "header": {
+      "title": "最近播放的视频"
+    }
+  },
+  "quotes": {
+    "header": {
+      "today": "今日推荐",
+      "subtitle": "精选语录，激励你前行。",
+      "title": "每日灵感"
+    }
+  },
+  "permissions": {
+    "limitedMessage": "我们只能部分访问你的媒体。",
+    "limitedTitle": "受限访问",
+    "deniedMessage": "我们需要存储权限才能显示你的视频。",
+    "deniedTitle": "权限被拒绝",
+    "blockedMessage": "请在系统设置中启用照片访问。",
+    "blockedTitle": "权限被阻止"
+  },
+  "onboarding": {
+    "cta": "开始使用",
+    "subtitle": "将你的视频、电台和播放列表集中到一个地方。",
+    "title": "畅享无限播放",
+    "slides": {
+      "video": {
+        "title": "视频播放器",
+        "subtitle": "播放任何视频。"
+      },
+      "audio": {
+        "title": "电台与播客",
+        "subtitle": "串流直播电台和播客。"
+      },
+      "offline": {
+        "title": "离线模式",
+        "subtitle": "下载节目随时观看。"
+      }
+    }
+  },
+  "media": {
+    "moviesNoTrailer": "没有可用预告。",
+    "moviesRatingLabel": "评分",
+    "moviesReleaseLabel": "上映",
+    "moviesLanguageLabel": "语言",
+    "moviesVideoError": "无法加载视频预览。",
+    "moviesOverview": "概览",
+    "moviesTrailer": "预告片",
+    "moviesHeroBadge": "正在流行",
+    "moviesSource": "由 TMDB 提供支持",
+    "moviesNoPoster": "无图像",
+    "moviesNoSummary": "点击查看完整简介。",
+    "moviesUnknownDate": "待定",
+    "moviesEmptySubtitle": "下拉刷新以加载电影。",
+    "moviesEmptyTitle": "没有可显示的电影",
+    "moviesErrorTitle": "无法加载影片",
+    "moviesError": "无法加载影片。请重试。",
+    "moviesMissingKey": "缺少 TMDB API 密钥。",
+    "moviesSubtitle": "浏览由 TMDB 提供的热门电影。",
+    "moviesTitle": "电影"
+  },
+  "language": {
+    "subtitle": "选择整个应用中使用的语言。",
+    "title": "选择你的语言"
+  },
+  "home": {
+    "cta": {
+      "continueWatching": "继续观看"
+    },
+    "cards": {
+      "theme": {
+        "subtitle": "切换颜色、语言等。",
+        "title": "自定义主题"
+      },
+      "quotes": {
+        "action": "打开名言",
+        "label": "每日金句",
+        "subtitle": "下拉获取今日灵感。",
+        "title": "每日箴言"
+      },
+      "recentlyPlayed": {
+        "subtitle": "回到你上一次的会话。",
+        "title": "最近播放"
+      },
+      "yourVideos": {
+        "subtitle": "浏览此设备上的所有文件。",
+        "title": "你的影片"
+      }
+    },
+    "search": {
+      "placeholder": "搜索你的资料库"
+    },
+    "header": {
+      "subtitle": "你播放过的一切都在这里。",
+      "title": "欢迎回来"
+    }
+  },
+  "common": {
+    "viewArrow": "查看 ›",
+    "tryAgain": "请稍后再试。",
+    "retry": "重试",
+    "openSettings": "打开设置",
+    "loading": "正在加载...",
+    "continue": "继续",
+    "cancel": "取消",
+    "back": "返回",
+    "adsLoading": "正在加载广告..."
+  },
+  "paywall": {
+    "title": "Turn 视频播放器",
+    "subtitle": "畅享所有视频，高清无限制。",
+    "features": {
+      "title": "解锁功能",
+      "adsFree": "100% 无广告体验",
+      "hd": "支持 HD 与 4K 播放",
+      "unlimited": "离线媒体播放器的高级控制"
+    },
+    "labels": {
+      "weekly": "每周",
+      "monthly": "每月",
+      "yearly": "每年",
+      "threeDayTrial": "3 天免费试用",
+      "perPeriod": "{{price}} · {{period}}",
+      "perWeek": "≈ {{price}} / 周",
+      "perWeekShort": "/周",
+      "perMonthShort": "/月",
+      "perYearShort": "/年"
+    },
+    "badges": {
+      "bestValue": "最超值",
+      "popular": "最热门"
+    },
+    "cta": {
+      "trial": "开始免费试用",
+      "subscribe": "立即订阅",
+      "restore": "恢复购买"
+    },
+    "messages": {
+      "restoredTitle": "购买已恢复",
+      "restoredMessage": "你的订阅已重新启用。",
+      "notFoundTitle": "未找到订阅",
+      "notFoundMessage": "我们无法在此账户中找到有效订阅。",
+      "noPackages": "目前没有可用方案。",
+      "cancelAnytime": "随时可以取消。",
+      "subscriptionErrorTitle": "已订阅",
+      "subscriptionErrorMessage": "你已经拥有此方案。",
+      "trialLine1": "先享 3 天免费试用，之后每周 {{price}}。",
+      "trialLine2": "在试用结束前取消即可免除费用。",
+      "renewal": "每个周期以 {{price}} {{period}} 自动续订，除非取消。"
+    },
+    "support": {
+      "terms": "使用条款",
+      "privacy": "隐私政策"
+    },
+    "success": {
+      "title": "一切就绪！",
+      "message": "高级功能已在所有设备上解锁。",
+      "button": "继续"
+    }
+  },
+  "aiTools": {
+    "title": "AI 工具",
+    "tabs": {
+      "work": "工作",
+      "business": "商务",
+      "communication": "沟通",
+      "health": "健康",
+      "fun": "娱乐"
+    },
+    "inputPlaceholder": "你的任务…",
+    "actions": {
+      "send": "发送",
+      "copy": "复制",
+      "close": "关闭"
+    },
+    "errors": {
+      "invalidJson": "无法解析该事件，请重试。",
+      "aiFailed": "当前无法连接到 AI，请稍后再试。"
+    },
+    "emptyState": "此分类还没有工具，敬请期待。",
+    "taskReminderSaved": "已保存提醒 {{title}}（{{date}}）",
+    "responseLabel": "AI"
+  },
+  "tools": {
+    "joke": {
+      "title": "每日笑话",
+      "subtitle": "请求一个快速笑话。"
+    },
+    "song": {
+      "title": "歌曲创作",
+      "subtitle": "几秒写出歌词。"
+    },
+    "party": {
+      "title": "派对策划",
+      "subtitle": "需高级访问。"
+    },
+    "recipeIdeas": {
+      "title": "菜谱灵感",
+      "subtitle": "有趣的创意菜。"
+    },
+    "giftIdeas": {
+      "title": "礼物灵感",
+      "subtitle": "贴心礼宾式建议。"
+    },
+    "emojiStory": {
+      "title": "Emoji 故事",
+      "subtitle": "用表情讲述故事。"
+    },
+    "dietPlan": {
+      "title": "健康饮食计划",
+      "subtitle": "为目标定制的均衡餐食。"
+    },
+    "muscleMass": {
+      "title": "增肌训练",
+      "subtitle": "力量训练与组数。"
+    },
+    "healthyRecipe": {
+      "title": "健康食谱",
+      "subtitle": "快速又营养的菜谱。"
+    },
+    "workoutPlan": {
+      "title": "锻炼计划",
+      "subtitle": "已锁定，升级后解锁。"
+    },
+    "betterSleep": {
+      "title": "改善睡眠",
+      "subtitle": "已锁定，升级获取技巧。"
+    },
+    "vitamins": {
+      "title": "维生素指南",
+      "subtitle": "已锁定的补剂信息。"
+    },
+    "taskReminder": {
+      "title": "任务提醒",
+      "subtitle": "把文字转换成日程。"
+    }
+  },
+  "calendar": {
+    "title": "日历",
+    "today": "今天",
+    "noEvents": "这一天没有事件。",
+    "allDay": "全天",
+    "add": {
+      "title": "新提醒",
+      "eventTitle": "事件标题",
+      "color": "颜色",
+      "icon": "图标",
+      "allDay": "全天",
+      "date": "日期",
+      "startTime": "开始时间",
+      "endTime": "结束时间",
+      "note": "备注",
+      "save": "保存",
+      "defaultTitle": "未命名事件"
+    }
+  }
+}

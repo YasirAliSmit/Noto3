@@ -1,0 +1,390 @@
+{
+  "common": {
+    "adsLoading": "Loading ad...",
+    "back": "Back",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "loading": "Loading...",
+    "openSettings": "Open Settings",
+    "retry": "Retry",
+    "tryAgain": "Please try again later.",
+    "viewArrow": "View ›"
+  },
+  "home": {
+    "header": {
+      "title": "Welcome back",
+      "subtitle": "Everything you played lives here."
+    },
+    "search": {
+      "placeholder": "Search your library"
+    },
+    "cards": {
+      "yourVideos": {
+        "title": "Your videos",
+        "subtitle": "Browse every file on this device."
+      },
+      "recentlyPlayed": {
+        "title": "Recently played",
+        "subtitle": "Jump back into your last sessions."
+      },
+      "quotes": {
+        "title": "Daily quotes",
+        "subtitle": "Pull for today's inspiration.",
+        "label": "Quote of the day",
+        "action": "Open quotes"
+      },
+      "theme": {
+        "title": "Customize theme",
+        "subtitle": "Switch colors, language, and more."
+      }
+    },
+    "cta": {
+      "continueWatching": "Continue watching"
+    }
+  },
+  "language": {
+    "title": "Select your language",
+    "subtitle": "Choose the language used throughout the app."
+  },
+  "media": {
+    "moviesTitle": "Movies",
+    "moviesSubtitle": "Browse trending movies powered by TMDB.",
+    "moviesMissingKey": "TMDB API key is missing.",
+    "moviesError": "Unable to load movies. Please try again.",
+    "moviesErrorTitle": "Unable to load movies",
+    "moviesEmptyTitle": "No movies to show",
+    "moviesEmptySubtitle": "Pull to refresh to load movies.",
+    "moviesUnknownDate": "TBA",
+    "moviesNoSummary": "Tap to see the full synopsis.",
+    "moviesNoPoster": "No image",
+    "moviesSource": "Powered by TMDB",
+    "moviesHeroBadge": "Now trending",
+    "moviesTrailer": "Trailer",
+    "moviesOverview": "Overview",
+    "moviesVideoError": "Unable to load video preview.",
+    "moviesLanguageLabel": "Language",
+    "moviesReleaseLabel": "Release",
+    "moviesRatingLabel": "Rating",
+    "moviesNoTrailer": "Trailer not available."
+  },
+  "onboarding": {
+    "title": "Stream without limits",
+    "subtitle": "Import your videos, radio, and playlists in one place.",
+    "cta": "Get started",
+    "slides": {
+      "video": {
+        "title": "Video Player",
+        "subtitle": "Play any video."
+      },
+      "audio": {
+        "title": "Radio & Podcasts",
+        "subtitle": "Stream live radio stations and podcasts."
+      },
+      "offline": {
+        "title": "Offline mode",
+        "subtitle": "Download shows to watch anywhere."
+      }
+    }
+  },
+  "permissions": {
+    "blockedTitle": "Permission blocked",
+    "blockedMessage": "Enable photo access in system settings.",
+    "deniedTitle": "Permission denied",
+    "deniedMessage": "We need storage access to show your videos.",
+    "limitedTitle": "Limited access",
+    "limitedMessage": "We only have partial access to your media."
+  },
+  "quotes": {
+    "header": {
+      "title": "Daily inspiration",
+      "subtitle": "Curated quotes to keep you motivated.",
+      "today": "Today's pick"
+    }
+  },
+  "recentVideos": {
+    "header": {
+      "title": "Recently played videos"
+    },
+    "empty": "Your recent list is empty."
+  },
+  "settings": {
+    "header": {
+      "title": "Settings",
+      "subtitle": "Fine-tune your Turn Player experience."
+    },
+    "actions": {
+      "manageSubscription": "Manage subscription",
+      "restorePurchases": "Restore purchases"
+    },
+    "messages": {
+      "cacheCleared": "Cache cleared.",
+      "chooseStorage": "Choose where downloads are stored.",
+      "restore": "Restore your previous purchases?"
+    },
+    "labels": {
+      "internal": "Internal storage",
+      "sdCard": "SD card"
+    },
+    "rows": {
+      "autoplay": "Autoplay",
+      "autoplayDesc": "Automatically play the next item.",
+      "hdOnly": "HD only",
+      "hdOnlyDesc": "Stream only HD quality when available.",
+      "clearCache": "Clear cache",
+      "storageLocation": "Storage location",
+      "storageLocationDesc": "Downloads saved to internal storage.",
+      "subscriptionDesc": "Tap to unlock premium features and manage your membership.",
+      "pushAlerts": "Push alerts",
+      "pushAlertsDesc": "Mobile alerts about new releases.",
+      "emailUpdates": "Email updates",
+      "emailUpdatesDesc": "Occasional product emails.",
+      "helpCenter": "Help center",
+      "shareFeedback": "Share feedback",
+      "rateApp": "Rate the app"
+    },
+    "sections": {
+      "playback": "Playback",
+      "notifications": "Notifications",
+      "downloads": "Downloads",
+      "subscription": "Subscription",
+      "support": "Support"
+    }
+  },
+  "subscription": {
+    "close": "Close",
+    "title": "Upgrade your experience",
+    "subtitle": "Subscribe to unlock premium shows, downloads, and an ad-free experience.",
+    "cta": "Start subscription"
+  },
+  "tabs": {
+    "home": "Home",
+    "audio": "Audio",
+    "tv": "TV",
+    "calendar": "Favorites",
+    "aiTools": "AI Tools"
+  },
+  "tv": {
+    "title": "TV",
+    "subtitle": "Stream curated channels.",
+    "heroBadge": "Live & Premium",
+    "ctaTitle": "LOKIOK Private Cinema",
+    "ctaSubtitle": "Stream curated channels powered by LOKIOK.",
+    "ctaButton": "Continue",
+    "loading": "Loading channels...",
+    "error": "Unable to load channels right now.",
+    "noChannels": "No channels available.",
+    "retry": "Try again",
+    "genericCategory": "General"
+  },
+  "videos": {
+    "title": "Videos",
+    "subtitle": "Browse every file on your device.",
+    "empty": "No videos found.",
+    "tapToPlay": "On device • Tap to watch",
+    "loading": "Loading videos...",
+    "missingVideo": "Unable to load this video.",
+    "playbackError": "Playback error. Please try again.",
+    "play": "Play",
+    "pause": "Pause",
+    "playbackSpeed": "Playback speed",
+    "speed": "Speed",
+    "restart": "Restart",
+    "soundOn": "Sound on",
+    "soundOff": "Muted"
+  },
+  "audio": {
+    "header": {
+      "title": "Live radio",
+      "subtitle": "Discover curated internet stations."
+    },
+    "tabs": {
+      "all": "All",
+      "liked": "Liked",
+      "most": "Most played",
+      "import": "Import"
+    },
+    "common": {
+      "unknownStation": "Untitled station",
+      "unknownCountry": "Unknown country"
+    },
+    "errors": {
+      "loadStations": "Unable to load stations.",
+      "noStream": "This station has no playable stream."
+    },
+    "status": {
+      "loading": "Loading stations..."
+    },
+    "list": {
+      "country": "Country",
+      "bitrate": "Bitrate",
+      "unknownBitrate": "Unknown",
+      "emptyLiked": "You haven't liked any stations yet.",
+      "emptyMostPlayed": "No listening history yet.",
+      "emptyImport": "No imported stations yet.",
+      "playCount": "Plays"
+    },
+    "import": {
+      "lastImported": "Imported station",
+      "fileSize": "File size: {{size}}",
+      "button": "Import audio file",
+      "error": "Unable to import that file."
+    },
+    "actions": {
+      "like": "Like",
+      "liked": "Liked",
+      "play": "Play",
+      "pause": "Pause"
+    },
+    "miniPlayer": {
+      "nowPlaying": "Now playing"
+    }
+  },
+  "paywall": {
+    "title": "Turn Video Player",
+    "subtitle": "Play every video in HD without limits",
+    "features": {
+      "title": "Unlock features",
+      "adsFree": "100% ad-free experience",
+      "hd": "4k & HD playback",
+      "unlimited": "Advanced controls for your offline media player"
+    },
+    "labels": {
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "threeDayTrial": "3-day free trial",
+      "perPeriod": "{{price}} · {{period}}",
+      "perWeek": "≈ {{price}} / week",
+      "perWeekShort": "/week",
+      "perMonthShort": "/month",
+      "perYearShort": "/year"
+    },
+    "badges": {
+      "bestValue": "Best value",
+      "popular": "Most popular"
+    },
+    "cta": {
+      "trial": "Start free trial",
+      "subscribe": "Subscribe now",
+      "restore": "Restore purchases"
+    },
+    "messages": {
+      "restoredTitle": "Purchases restored",
+      "restoredMessage": "Your subscription is active again.",
+      "notFoundTitle": "No subscription found",
+      "notFoundMessage": "We couldn't find an active subscription on this account.",
+      "noPackages": "No plans available right now.",
+      "cancelAnytime": "You can cancel any time.",
+      "subscriptionErrorTitle": "Already subscribed",
+      "subscriptionErrorMessage": "You already have this plan.",
+      "trialLine1": "Begin with a 3-day free trial, then {{price}} per week.",
+      "trialLine2": "Cancel before the trial ends to avoid charges.",
+      "renewal": "Renews automatically at {{price}} {{period}} unless cancelled."
+    },
+    "support": {
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy"
+    },
+    "success": {
+      "title": "You're all set!",
+      "message": "Premium features unlocked across your devices.",
+      "button": "Continue"
+    }
+  },
+  "aiTools": {
+    "title": "AI Tools",
+    "tabs": {
+      "work": "Work",
+      "business": "Business",
+      "communication": "Communication",
+      "health": "Health",
+      "fun": "Fun"
+    },
+    "inputPlaceholder": "Your task...",
+    "actions": {
+      "send": "Send",
+      "copy": "Copy",
+      "close": "Close"
+    },
+    "errors": {
+      "invalidJson": "We could not understand that event. Please try again.",
+      "aiFailed": "Unable to reach AI right now. Please retry."
+    },
+    "emptyState": "No tools here yet. Check back soon.",
+    "taskReminderSaved": "Reminder saved for {{date}} — {{title}}",
+    "responseLabel": "AI"
+  },
+  "tools": {
+    "joke": {
+      "title": "Daily joke",
+      "subtitle": "Ask for a quick laugh."
+    },
+    "song": {
+      "title": "Song writing",
+      "subtitle": "Craft lyrics in seconds."
+    },
+    "party": {
+      "title": "Party planner",
+      "subtitle": "Premium access required."
+    },
+    "recipeIdeas": {
+      "title": "Recipe ideas",
+      "subtitle": "Playful mashups and meals."
+    },
+    "giftIdeas": {
+      "title": "Gift ideas",
+      "subtitle": "Concierge-style suggestions."
+    },
+    "emojiStory": {
+      "title": "Text to emoji story",
+      "subtitle": "Retell moments with emojis."
+    },
+    "dietPlan": {
+      "title": "Healthy diet plan",
+      "subtitle": "Balanced meals for your goals."
+    },
+    "muscleMass": {
+      "title": "Muscle mass workout",
+      "subtitle": "Strength routines and sets."
+    },
+    "healthyRecipe": {
+      "title": "Healthy recipe",
+      "subtitle": "Quick wholesome meals."
+    },
+    "workoutPlan": {
+      "title": "Workout plan",
+      "subtitle": "Locked. Upgrade to unlock."
+    },
+    "betterSleep": {
+      "title": "Better sleep",
+      "subtitle": "Locked. Upgrade for tips."
+    },
+    "vitamins": {
+      "title": "Vitamins guide",
+      "subtitle": "Locked supplement insights."
+    },
+    "taskReminder": {
+      "title": "Task reminder",
+      "subtitle": "Turn text into calendar events."
+    }
+  },
+  "calendar": {
+    "title": "Calendar",
+    "today": "Today",
+    "noEvents": "No events for this day.",
+    "allDay": "All day",
+    "add": {
+      "title": "New reminder",
+      "eventTitle": "Event title",
+      "color": "Color",
+      "icon": "Icon",
+      "allDay": "All day",
+      "date": "Date",
+      "startTime": "Start time",
+      "endTime": "End time",
+      "note": "Note",
+      "save": "Save",
+      "defaultTitle": "Untitled event"
+    }
+  }
+}
